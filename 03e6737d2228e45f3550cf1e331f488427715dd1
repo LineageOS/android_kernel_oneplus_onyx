@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_1ad8567d",
+        "filename": "drivers/input/misc/tri_state_key.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 11925
+      },
+      "writtenOn": "2016-05-14T14:06:28Z",
+      "side": 1,
+      "message": "mode \u003d 1",
+      "revId": "03e6737d2228e45f3550cf1e331f488427715dd1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_bae6e243",
+        "filename": "drivers/input/misc/tri_state_key.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 11925
+      },
+      "writtenOn": "2016-05-14T14:06:28Z",
+      "side": 1,
+      "message": "mode \u003d 2",
+      "revId": "03e6737d2228e45f3550cf1e331f488427715dd1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_dae15e2c",
+        "filename": "drivers/input/misc/tri_state_key.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 11925
+      },
+      "writtenOn": "2016-05-14T14:06:28Z",
+      "side": 1,
+      "message": "mode \u003d 3",
+      "revId": "03e6737d2228e45f3550cf1e331f488427715dd1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_7ad2aa5e",
+        "filename": "drivers/input/misc/tri_state_key.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 406,
+      "author": {
+        "id": 11925
+      },
+      "writtenOn": "2016-05-14T14:06:28Z",
+      "side": 1,
+      "message": "if (current_mode \u003d\u003d 2)",
+      "revId": "03e6737d2228e45f3550cf1e331f488427715dd1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
